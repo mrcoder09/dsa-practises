@@ -1,0 +1,7 @@
+package kotlinpractise
+
+class InlineCrossInline {
+
+
+
+}
